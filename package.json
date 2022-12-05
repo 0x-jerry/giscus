@@ -43,7 +43,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "postcss": "^8.4.12",
-    "postcss-cli": "^9.1.0",
+    "postcss-cli": "^10.1.0",
     "postcss-import": "^14.0.1",
     "prettier": "^2.6.0",
     "scheduler": "^0.20.2",
