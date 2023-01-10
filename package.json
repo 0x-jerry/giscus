@@ -25,7 +25,7 @@
     "dompurify": "^2.4.3",
     "jsonwebtoken": "^9.0.0",
     "lit-html": "^2.5.0",
-    "mathjax": "3.2.0",
+    "mathjax": "3.2.2",
     "next": "^12.3.4",
     "next-plugin-preact": "^3.0.7",
     "next-translate": "^1.6.0",
