@@ -3420,7 +3420,7 @@ queue-microtask@^1.2.2:
   resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-"react-dom@npm:@preact/compat", "react@npm:@preact/compat":
+"react-dom@npm:@preact/compat":
   version "17.1.1"
   resolved "https://registry.npmjs.org/@preact/compat/-/compat-17.1.1.tgz#60a657ffe7d9830ceefc7ae44fcfce589c5acf23"
   integrity sha512-OjQJ6oVcjFTiKWs4MIoE/cORFFGhqnt1RO0uxGNAFUglBMPNahMDJyX5w+qEOEaOpaNTLM1L3ixc2bFEpxgs3A==
@@ -3434,6 +3434,11 @@ react-is@^16.13.1:
   version "1.2.0"
   resolved "https://registry.npmjs.org/preact-ssr-prepass/-/preact-ssr-prepass-1.2.0.tgz#f9c0545f18117971dcc6a09dbc3014067acce583"
   integrity sha512-UKz6FB2+KepjHQ6aGqiTUMZfGgdoTunxtByczdUNho9UvSRTJw31Np9J+wUSAlJ1kALJGX1BpcBLvO3iohQUSA==
+
+"react@npm:@preact/compat":
+  version "17.1.1"
+  resolved "https://registry.npmjs.org/@preact/compat/-/compat-17.1.1.tgz#60a657ffe7d9830ceefc7ae44fcfce589c5acf23"
+  integrity sha512-OjQJ6oVcjFTiKWs4MIoE/cORFFGhqnt1RO0uxGNAFUglBMPNahMDJyX5w+qEOEaOpaNTLM1L3ixc2bFEpxgs3A==
 
 read-cache@^1.0.0:
   version "1.0.0"
@@ -4333,9 +4338,9 @@ write-file-atomic@^5.0.1:
     signal-exit "^4.0.1"
 
 ws@^7.3.1:
-  version "7.5.7"
-  resolved "https://registry.npmjs.org/ws/-/ws-7.5.7.tgz"
-  integrity sha512-KMvVuFzpKBuiIXW3E4u3mySRO2/mCHSyZDJQM5NQ9Q9KHWHWh0NHgfbRMLLrceUK5qAL4ytALJbpRMjixFZh8A==
+  version "7.5.10"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.10.tgz#58b5c20dc281633f6c19113f39b349bd8bd558d9"
+  integrity sha512-+dbF1tHwZpXcbOJdVOkzLDxZP1ailvSxM6ZweXTegylPny803bFhA+vqBYw4s31NSAk4S2Qz+AKXK9a4wkdjcQ==
 
 y18n@^5.0.5:
   version "5.0.8"
