@@ -2636,9 +2636,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.20:
-  version "4.17.21"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
-  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
+  version "4.17.23"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.23.tgz#f113b0378386103be4f6893388c73d0bde7f2c5a"
+  integrity sha512-LgVTMpQtIopCi79SJeDiP0TfWi5CNEc/L/aRdTh3yIvmZXTnheWpKjSZhnvMl8iXbC1tFg9gdHHDMLoV7CnG+w==
 
 loose-envify@^1.4.0:
   version "1.4.0"
@@ -3420,7 +3420,7 @@ queue-microtask@^1.2.2:
   resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-"react-dom@npm:@preact/compat", "react@npm:@preact/compat":
+"react-dom@npm:@preact/compat":
   version "17.1.1"
   resolved "https://registry.npmjs.org/@preact/compat/-/compat-17.1.1.tgz#60a657ffe7d9830ceefc7ae44fcfce589c5acf23"
   integrity sha512-OjQJ6oVcjFTiKWs4MIoE/cORFFGhqnt1RO0uxGNAFUglBMPNahMDJyX5w+qEOEaOpaNTLM1L3ixc2bFEpxgs3A==
@@ -3434,6 +3434,11 @@ react-is@^16.13.1:
   version "1.2.0"
   resolved "https://registry.npmjs.org/preact-ssr-prepass/-/preact-ssr-prepass-1.2.0.tgz#f9c0545f18117971dcc6a09dbc3014067acce583"
   integrity sha512-UKz6FB2+KepjHQ6aGqiTUMZfGgdoTunxtByczdUNho9UvSRTJw31Np9J+wUSAlJ1kALJGX1BpcBLvO3iohQUSA==
+
+"react@npm:@preact/compat":
+  version "17.1.1"
+  resolved "https://registry.npmjs.org/@preact/compat/-/compat-17.1.1.tgz#60a657ffe7d9830ceefc7ae44fcfce589c5acf23"
+  integrity sha512-OjQJ6oVcjFTiKWs4MIoE/cORFFGhqnt1RO0uxGNAFUglBMPNahMDJyX5w+qEOEaOpaNTLM1L3ixc2bFEpxgs3A==
 
 read-cache@^1.0.0:
   version "1.0.0"
